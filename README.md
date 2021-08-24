@@ -23,8 +23,14 @@
 • Check duplicate value - there are 1 duplicate, will be remove <br>
 • Feature engineering - make a new column `weight_status` based on BMI score <br>
 • Feature transformation <br>
-  - Encoding `sex` & `region`
-•  <br>
-•  <br>
-•  <br>
-•  <br>
+ Encoding `sex`, `region`, & `weight_status` <br>
+ Ordinal encoding `smoker` <br>
+• Modeling <br>
+ Separating target & features <br>
+ Splitting train & test data <br>
+ Modeling using Linear Regression, Random Forest, Decision Tree, Ridge, & Lasso algorithm <br>
+ Find the best algorithm <br>
+ Tuning Hyperparameter <br>
+ 
+ 
+ 
