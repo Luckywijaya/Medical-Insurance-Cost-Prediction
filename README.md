@@ -7,9 +7,10 @@
 ## **Exploratory Data Analysis**
 There are outliers in features
 
-most people are a non smokers & obese
-feature sex, region has an almost balanced amount
+
 person who smoke & have a higher BMI, has higher medical charges
 older people who smoke have more expensive charges
 an obese person who smokes have higher charges
 
+• Feature sex, region has an almost balanced amount, meanwhile most people are non smoker & obese <br>
+![image](https://user-images.githubusercontent.com/80570935/130601931-826570ec-df1d-4b85-918f-00eb740ed212.png)
