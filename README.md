@@ -18,4 +18,13 @@
 • People who smoke and obese have the highest average charges compared to others <br>
 ![image](https://user-images.githubusercontent.com/80570935/130602770-c008fb2b-2041-440e-b92e-373e7cbed2ce.png)
 
-
+## **Data Processing**
+• Check missing value - there are none <br>
+• Check duplicate value - there are 1 duplicate, will be remove <br>
+• Feature engineering - make a new column `weight_status` based on BMI score <br>
+• Feature transformation <br>
+  - Encoding `sex` & `region`
+•  <br>
+•  <br>
+•  <br>
+•  <br>
