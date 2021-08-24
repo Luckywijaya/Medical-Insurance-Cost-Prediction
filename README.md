@@ -32,5 +32,6 @@
  Find the best algorithm <br>
  Tuning Hyperparameter <br>
  
- 
+ ## **Conclusion**
+Based on the predictive modeling, Linear Regression algorithm has the best score compared to the others, with MAE Score 4305.20, RMSE Score 6209.88, & R2 Score 0.77. Linear Regression algorithm is fit based on the train & test accuracy.
  
