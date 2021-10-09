@@ -1,4 +1,6 @@
 # Medical-Insurance-Cost-Prediction
+Data source : https://www.kaggle.com/mirichoi0218/insurance
+
 ## **Project Overview** 
 • Seek insight from the dataset with Exploratory Data Analysis <br>
 • Performed data processing, data engineering to prepare data before modeling <br>
